@@ -5,15 +5,6 @@ All damage done to any computer system or company is entirely the users fault, n
 The malware should not be used for illegal computer based attacks towards companies or users, all fault is given to the user, not me.
 The password to the 7z file is s4vvyos. 
 
-
-$$$$$$$$\  $$$$$$\   $$$$$$\    $$\   
-\____$$  |$$  __$$\ $$$ __$$\ $$$$ |  
-    $$  / $$ /  \__|$$$$\ $$ |\_$$ |  
-   $$  /  $$ |      $$\$$\$$ |  $$ |  
-  $$  /   $$ |      $$ \$$$$ |  $$ |  
- $$  /    $$ |  $$\ $$ |\$$$ |  $$ |  
-$$$$$$$$\ \$$$$$$  |\$$$$$$  /$$$$$$\ 
-\________| \______/  \______/ \______|
 ZCO1 was written in C and preforms the following actions:
 Removes safe boot
 Removes CMD, shell, etc.
