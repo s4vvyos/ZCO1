@@ -6,11 +6,11 @@ The malware should not be used for illegal computer based attacks towards compan
 The password to the 7z file is s4vvyos. 
 
 ZCO1 was written in C and preforms the following actions:
-Removes safe boot
+Removes safe boot.
 Removes CMD, shell, etc.
-Removes Regedit
-Connects to remote servers
-infects all exe files
+Removes Regedit.
+Connects to remote servers.
+infects all exe files.
 infects usbs.
 
 
